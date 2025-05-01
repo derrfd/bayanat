@@ -1,0 +1,1360 @@
+[
+    {
+      "commonName": "سوريا",
+      "officialName": "Syrian Arab Republic",
+      "flag": "🇸🇾",
+      "arName": "سوريا",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "فلسطين",
+      "officialName": "State of Palestine",
+      "flag": "🇵🇸",
+      "arName": "فلسطين",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "لبنان",
+      "officialName": "Lebanese Republic",
+      "flag": "🇱🇧",
+      "arName": "لبنان",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "العراق",
+      "officialName": "Republic of Iraq",
+      "flag": "🇮🇶",
+      "arName": "العراق",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "الأردن",
+      "officialName": "Hashemite Kingdom of Jordan",
+      "flag": "🇯🇴",
+      "arName": "الأردن",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "مصر",
+      "officialName": "Arab Republic of Egypt",
+      "flag": "🇪🇬",
+      "arName": "مصر",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "المملكة العربية السعودية",
+      "officialName": "Kingdom of Saudi Arabia",
+      "flag": "🇸🇦",
+      "arName": "المملكة العربية السعودية",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "الإمارات العربية المتحدة",
+      "officialName": "United Arab Emirates",
+      "flag": "🇦🇪",
+      "arName": "الإمارات العربية المتحدة",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "قطر",
+      "officialName": "State of Qatar",
+      "flag": "🇶🇦",
+      "arName": "قطر",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "الكويت",
+      "officialName": "State of Kuwait",
+      "flag": "🇰🇼",
+      "arName": "الكويت",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "البحرين",
+      "officialName": "Kingdom of Bahrain",
+      "flag": "🇧🇭",
+      "arName": "البحرين",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "عمان",
+      "officialName": "Sultanate of Oman",
+      "flag": "🇴🇲",
+      "arName": "عمان",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "المغرب",
+      "officialName": "Kingdom of Morocco",
+      "flag": "🇲🇦",
+      "arName": "المغرب",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "الجزائر",
+      "officialName": "People's Democratic Republic of Algeria",
+      "flag": "🇩🇿",
+      "arName": "الجزائر",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "تونس",
+      "officialName": "Republic of Tunisia",
+      "flag": "🇹🇳",
+      "arName": "تونس",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "ليبيا",
+      "officialName": "State of Libya",
+      "flag": "🇱🇾",
+      "arName": "ليبيا",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "اليمن",
+      "officialName": "Republic of Yemen",
+      "flag": "🇾🇪",
+      "arName": "اليمن",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "السودان",
+      "officialName": "Republic of Sudan",
+      "flag": "🇸🇩",
+      "arName": "السودان",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "موريتانيا",
+      "officialName": "Islamic Republic of Mauritania",
+      "flag": "🇲🇷",
+      "arName": "موريتانيا",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "الصومال",
+      "officialName": "Federal Republic of Somalia",
+      "flag": "🇸🇴",
+      "arName": "الصومال",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "جيبوتي",
+      "officialName": "Republic of Djibouti",
+      "flag": "🇩🇯",
+      "arName": "جيبوتي",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "جزر القمر",
+      "officialName": "Union of the Comoros",
+      "flag": "🇰🇲",
+      "arName": "جزر القمر",
+      "languageCode": "ar"
+    },
+    {
+      "commonName": "تركيا",
+      "officialName": "Republic of Turkey",
+      "flag": "🇹🇷",
+      "arName": "تركيا",
+      "languageCode": "tr"
+    },
+    {
+      "commonName": "روسيا",
+      "officialName": "Russian Federation",
+      "flag": "🇷🇺",
+      "arName": "روسيا",
+      "languageCode": "ru"
+    },
+    {
+      "commonName": "ألمانيا",
+      "officialName": "Federal Republic of Germany",
+      "flag": "🇩🇪",
+      "arName": "ألمانيا",
+      "languageCode": "de"
+    },
+    {
+      "commonName": "فرنسا",
+      "officialName": "French Republic",
+      "flag": "🇫🇷",
+      "arName": "فرنسا",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "بريطانيا",
+      "officialName": "United Kingdom of Great Britain and Northern Ireland",
+      "flag": "🇬🇧",
+      "arName": "المملكة المتحدة",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "إيطاليا",
+      "officialName": "Italian Republic",
+      "flag": "🇮🇹",
+      "arName": "إيطاليا",
+      "languageCode": "it"
+    },
+    {
+      "commonName": "إسبانيا",
+      "officialName": "Kingdom of Spain",
+      "flag": "🇪🇸",
+      "arName": "إسبانيا",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "بولندا",
+      "officialName": "Republic of Poland",
+      "flag": "🇵🇱",
+      "arName": "بولندا",
+      "languageCode": "pl"
+    },
+    {
+      "commonName": "أوكرانيا",
+      "officialName": "Ukraine",
+      "flag": "🇺🇦",
+      "arName": "أوكرانيا",
+      "languageCode": "uk"
+    },
+    {
+      "commonName": "السويد",
+      "officialName": "Kingdom of Sweden",
+      "flag": "🇸🇪",
+      "arName": "السويد",
+      "languageCode": "sv"
+    },
+    {
+      "commonName": "بلجيكا",
+      "officialName": "Kingdom of Belgium",
+      "flag": "🇧🇪",
+      "arName": "بلجيكا",
+      "languageCode": "nl"
+    },
+    {
+      "commonName": "هولندا",
+      "officialName": "Kingdom of the Netherlands",
+      "flag": "🇳🇱",
+      "arName": "هولندا",
+      "languageCode": "nl"
+    },
+    {
+      "commonName": "النمسا",
+      "officialName": "Republic of Austria",
+      "flag": "🇦🇹",
+      "arName": "النمسا",
+      "languageCode": "de"
+    },
+    {
+      "commonName": "اليونان",
+      "officialName": "Hellenic Republic",
+      "flag": "🇬🇷",
+      "arName": "اليونان",
+      "languageCode": "el"
+    },
+    {
+      "commonName": "صربيا",
+      "officialName": "Republic of Serbia",
+      "flag": "🇷🇸",
+      "arName": "صربيا",
+      "languageCode": "sr"
+    },
+    {
+      "commonName": "رومانيا",
+      "officialName": "Romania",
+      "flag": "🇷🇴",
+      "arName": "رومانيا",
+      "languageCode": "ro"
+    },
+    {
+      "commonName": "هنغاريا",
+      "officialName": "Hungary",
+      "flag": "🇭🇺",
+      "arName": "هنغاريا",
+      "languageCode": "hu"
+    },
+    {
+      "commonName": "فنلندا",
+      "officialName": "Republic of Finland",
+      "flag": "🇫🇮",
+      "arName": "فنلندا",
+      "languageCode": "fi"
+    },
+    {
+      "commonName": "التشيك",
+      "officialName": "Czech Republic",
+      "flag": "🇨🇿",
+      "arName": "التشيك",
+      "languageCode": "cs"
+    },
+    {
+      "commonName": "الدنمارك",
+      "officialName": "Kingdom of Denmark",
+      "flag": "🇩🇰",
+      "arName": "الدنمارك",
+      "languageCode": "da"
+    },
+    {
+      "commonName": "أيرلندا",
+      "officialName": "Ireland",
+      "flag": "🇮🇪",
+      "arName": "أيرلندا",
+      "languageCode": "ga"
+    },
+    {
+      "commonName": "سويسرا",
+      "officialName": "Swiss Confederation",
+      "flag": "🇨🇭",
+      "arName": "سويسرا",
+      "languageCode": "de"
+    },
+    {
+      "commonName": "النرويج",
+      "officialName": "Kingdom of Norway",
+      "flag": "🇳🇴",
+      "arName": "النرويج",
+      "languageCode": "no"
+    },
+    {
+      "commonName": "البرتغال",
+      "officialName": "Portuguese Republic",
+      "flag": "🇵🇹",
+      "arName": "البرتغال",
+      "languageCode": "pt"
+    },
+    {
+      "commonName": "بلغاريا",
+      "officialName": "Republic of Bulgaria",
+      "flag": "🇧🇬",
+      "arName": "بلغاريا",
+      "languageCode": "bg"
+    },
+    {
+      "commonName": "ألبانيا",
+      "officialName": "Republic of Albania",
+      "flag": "🇦🇱",
+      "arName": "ألبانيا",
+      "languageCode": "sq"
+    },
+    {
+      "commonName": "مقدونيا",
+      "officialName": "Republic of North Macedonia",
+      "flag": "🇲🇰",
+      "arName": "مقدونيا",
+      "languageCode": "mk"
+    },
+    {
+      "commonName": "لوكسمبورغ",
+      "officialName": "Grand Duchy of Luxembourg",
+      "flag": "🇱🇺",
+      "arName": "لوكسمبورغ",
+      "languageCode": "lb"
+    },
+    {
+      "commonName": "سلوفينيا",
+      "officialName": "Republic of Slovenia",
+      "flag": "🇸🇮",
+      "arName": "سلوفينيا",
+      "languageCode": "sl"
+    },
+    {
+      "commonName": "كرواتيا",
+      "officialName": "Republic of Croatia",
+      "flag": "🇭🇷",
+      "arName": "كرواتيا",
+      "languageCode": "hr"
+    },
+    {
+      "commonName": "مولدوفا",
+      "officialName": "Republic of Moldova",
+      "flag": "🇲🇩",
+      "arName": "مولدوفا",
+      "languageCode": "ro"
+    },
+    {
+      "commonName": "موناكو",
+      "officialName": "Principality of Monaco",
+      "flag": "🇲🇨",
+      "arName": "موناكو",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "كوسوفو",
+      "officialName": "Republic of Kosovo",
+      "flag": "🇽🇰",
+      "arName": "كوسوفو",
+      "languageCode": "sq"
+    },
+    {
+      "commonName": "البوسنة والهرسك",
+      "officialName": "Bosnia and Herzegovina",
+      "flag": "🇧🇦",
+      "arName": "البوسنة والهرسك",
+      "languageCode": "bs"
+    },
+    {
+      "commonName": "قبرص",
+      "officialName": "Republic of Cyprus",
+      "flag": "🇨🇾",
+      "arName": "قبرص",
+      "languageCode": "el"
+    },
+    {
+      "commonName": "لاتفيا",
+      "officialName": "Latvia",
+      "flag": "🇱🇻",
+      "arName": "لاتفيا",
+      "languageCode": "lv"
+    },
+    {
+      "commonName": "استونيا",
+      "officialName": "Republic of Estonia",
+      "flag": "🇪🇪",
+      "arName": "استونيا",
+      "languageCode": "et"
+    },
+    {
+      "commonName": "ليختنشتاين",
+      "officialName": "Principality of Liechtenstein",
+      "flag": "🇱🇮",
+      "arName": "ليختنشتاين",
+      "languageCode": "de"
+    },
+    {
+      "commonName": "مالطا",
+      "officialName": "Republic of Malta",
+      "flag": "🇲🇹",
+      "arName": "مالطا",
+      "languageCode": "mt"
+    },
+    {
+      "commonName": "سان مارينو",
+      "officialName": "Most Serene Republic of San Marino",
+      "flag": "🇸🇲",
+      "arName": "سان مارينو",
+      "languageCode": "it"
+    },
+    {
+      "commonName": "الجبل الأسود",
+      "officialName": "Montenegro",
+      "flag": "🇲🇪",
+      "arName": "الجبل الأسود",
+      "languageCode": "sr"
+    },
+    {
+      "commonName": "سلوفاكيا",
+      "officialName": "Slovak Republic",
+      "flag": "🇸🇰",
+      "arName": "سلوفاكيا",
+      "languageCode": "sk"
+    },
+    {
+      "commonName": "أرمينيا",
+      "officialName": "Republic of Armenia",
+      "flag": "🇦🇲",
+      "arName": "أرمينيا",
+      "languageCode": "hy"
+    },
+    {
+      "commonName": "آيسلندا",
+      "officialName": "Iceland",
+      "flag": "🇮🇸",
+      "arName": "آيسلندا",
+      "languageCode": "is"
+    },
+    {
+      "commonName": "جورجيا",
+      "officialName": "Georgia",
+      "flag": "🇬🇪",
+      "arName": "جورجيا",
+      "languageCode": "ka"
+    },
+    {
+      "commonName": "ليتوانيا",
+      "officialName": "Republic of Lithuania",
+      "flag": "🇱🇹",
+      "arName": "ليتوانيا",
+      "languageCode": "lt"
+    },
+    {
+      "commonName": "بيلاروسيا",
+      "officialName": "Republic of Belarus",
+      "flag": "🇧🇾",
+      "arName": "بيلاروسيا",
+      "languageCode": "be"
+    },
+    {
+      "commonName": "أندورا",
+      "officialName": "Principality of Andorra",
+      "flag": "🇦🇩",
+      "arName": "أندورا",
+      "languageCode": "ca"
+    },
+    {
+      "commonName": "أمريكا",
+      "officialName": "United States of America",
+      "flag": "🇺🇸",
+      "arName": "الولايات المتحدة الأمريكية",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "كندا",
+      "officialName": "Canada",
+      "flag": "🇨🇦",
+      "arName": "كندا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "المكسيك",
+      "officialName": "United Mexican States",
+      "flag": "🇲🇽",
+      "arName": "المكسيك",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "أستراليا",
+      "officialName": "Commonwealth of Australia",
+      "flag": "🇦🇺",
+      "arName": "أستراليا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "جنوب أفريقيا",
+      "officialName": "Republic of South Africa",
+      "flag": "🇿🇦",
+      "arName": "جنوب أفريقيا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "الصين",
+      "officialName": "People's Republic of China",
+      "flag": "🇨🇳",
+      "arName": "الصين",
+      "languageCode": "zh"
+    },
+    {
+      "commonName": "الهند",
+      "officialName": "Republic of India",
+      "flag": "🇮🇳",
+      "arName": "الهند",
+      "languageCode": "hi"
+    },
+    {
+      "commonName": "اليابان",
+      "officialName": "Japan",
+      "flag": "🇯🇵",
+      "arName": "اليابان",
+      "languageCode": "ja"
+    },
+    {
+      "commonName": "إندونيسيا",
+      "officialName": "Republic of Indonesia",
+      "flag": "🇮🇩",
+      "arName": "إندونيسيا",
+      "languageCode": "id"
+    },
+    {
+      "commonName": "ماليزيا",
+      "officialName": "Malaysia",
+      "flag": "🇲🇾",
+      "arName": "ماليزيا",
+      "languageCode": "ms"
+    },
+    {
+      "commonName": "البرازيل",
+      "officialName": "Federative Republic of Brazil",
+      "flag": "🇧🇷",
+      "arName": "البرازيل",
+      "languageCode": "pt"
+    },
+    {
+      "commonName": "الأرجنتين",
+      "officialName": "Argentine Republic",
+      "flag": "🇦🇷",
+      "arName": "الأرجنتين",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "سنغافورة",
+      "officialName": "Republic of Singapore",
+      "flag": "🇸🇬",
+      "arName": "سنغافورة",
+      "languageCode": "ms"
+    },
+    {
+      "commonName": "كوريا الجنوبية",
+      "officialName": "Republic of Korea",
+      "flag": "🇰🇷",
+      "arName": "كوريا الجنوبية",
+      "languageCode": "ko"
+    },
+    {
+      "commonName": "تشيلي",
+      "officialName": "Republic of Chile",
+      "flag": "🇨🇱",
+      "arName": "تشيلي",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "كولومبيا",
+      "officialName": "Republic of Colombia",
+      "flag": "🇨🇴",
+      "arName": "كولومبيا",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "فيتنام",
+      "officialName": "Socialist Republic of Vietnam",
+      "flag": "🇻🇳",
+      "arName": "فيتنام",
+      "languageCode": "vi"
+    },
+    {
+      "commonName": "الفلبين",
+      "officialName": "Republic of the Philippines",
+      "flag": "🇵🇭",
+      "arName": "الفلبين",
+      "languageCode": "tl"
+    },
+    {
+      "commonName": "تايلاند",
+      "officialName": "Kingdom of Thailand",
+      "flag": "🇹🇭",
+      "arName": "تايلاند",
+      "languageCode": "th"
+    },
+    {
+      "commonName": "كازاخستان",
+      "officialName": "Republic of Kazakhstan",
+      "flag": "🇰🇿",
+      "arName": "كازاخستان",
+      "languageCode": "kk"
+    },
+    {
+      "commonName": "أوزبكستان",
+      "officialName": "Republic of Uzbekistan",
+      "flag": "🇺🇿",
+      "arName": "أوزبكستان",
+      "languageCode": "uz"
+    },
+    {
+      "commonName": "كوريا الشمالية",
+      "officialName": "Democratic People's Republic of Korea",
+      "flag": "🇰🇵",
+      "arName": "كوريا الشمالية",
+      "languageCode": "ko"
+    },
+    {
+      "commonName": "بنغلاديش",
+      "officialName": "People's Republic of Bangladesh",
+      "flag": "🇧🇩",
+      "arName": "بنغلاديش",
+      "languageCode": "bn"
+    },
+    {
+      "commonName": "قيرغيزستان",
+      "officialName": "Kyrgyz Republic",
+      "flag": "🇰🇬",
+      "arName": "قيرغيزستان",
+      "languageCode": "ky"
+    },
+    {
+      "commonName": "لاوس",
+      "officialName": "Lao People's Democratic Republic",
+      "flag": "🇱🇸",
+      "arName": "لاوس",
+      "languageCode": "lo"
+    },
+    {
+      "commonName": "بوتان",
+      "officialName": "Kingdom of Bhutan",
+      "flag": "🇧🇹",
+      "arName": "بوتان",
+      "languageCode": "dz"
+    },
+    {
+      "commonName": "بروناي",
+      "officialName": "Brunei Darussalam",
+      "flag": "🇧🇳",
+      "arName": "بروناي",
+      "languageCode": "ms"
+    },
+    {
+      "commonName": "كمبوديا",
+      "officialName": "Kingdom of Cambodia",
+      "flag": "🇰🇭",
+      "arName": "كمبوديا",
+      "languageCode": "km"
+    },
+    {
+      "commonName": "تايوان",
+      "officialName": "Republic of China",
+      "flag": "🇹🇼",
+      "arName": "تايوان",
+      "languageCode": "zh"
+    },
+    {
+      "commonName": "منغوليا",
+      "officialName": "Mongolia",
+      "flag": "🇲🇳",
+      "arName": "منغوليا",
+      "languageCode": "mn"
+    },
+    {
+      "commonName": "سريلانكا",
+      "officialName": "Democratic Socialist Republic of Sri Lanka",
+      "flag": "🇱🇰",
+      "arName": "سريلانكا",
+      "languageCode": "si"
+    },
+    {
+      "commonName": "أوزبكستان",
+      "officialName": "Republic of Uzbekistan",
+      "flag": "🇺🇿",
+      "arName": "أوزبكستان",
+      "languageCode": "uz"
+    },
+    {
+      "commonName": "نيبال",
+      "officialName": "Federal Democratic Republic of Nepal",
+      "flag": "🇳🇵",
+      "arName": "نيبال",
+      "languageCode": "ne"
+    },
+    {
+      "commonName": "طاجيكستان",
+      "officialName": "Tajikistan",
+      "flag": "🇹🇯",
+      "arName": "طاجيكستان",
+      "languageCode": "tg"
+    },
+    {
+      "commonName": "ميانمار",
+      "officialName": "Republic of the Union of Myanmar",
+      "flag": "🇲🇲",
+      "arName": "ميانمار",
+      "languageCode": "my"
+    },
+    {
+      "commonName": "المالديف",
+      "officialName": "Republic of Maldives",
+      "flag": "🇲🇻",
+      "arName": "المالديف",
+      "languageCode": "dv"
+    },
+    {
+      "commonName": "تركمانستان",
+      "officialName": "Turkmenistan",
+      "flag": "🇹🇲",
+      "arName": "تركمانستان",
+      "languageCode": "tk"
+    },
+    {
+      "commonName": "إيران",
+      "officialName": "Islamic Republic of Iran",
+      "flag": "🇮🇷",
+      "arName": "إيران",
+      "languageCode": "fa"
+    },
+    {
+      "commonName": "باكستان",
+      "officialName": "Islamic Republic of Pakistan",
+      "flag": "🇵🇰",
+      "arName": "باكستان",
+      "languageCode": "ur"
+    },
+    {
+      "commonName": "أفغانستان",
+      "officialName": "Islamic Republic of Afghanistan",
+      "flag": "🇦🇫",
+      "arName": "أفغانستان",
+      "languageCode": "ps"
+    },
+    {
+      "commonName": "أذربيجان",
+      "officialName": "Republic of Azerbaijan",
+      "flag": "🇦🇿",
+      "arName": "أذربيجان",
+      "languageCode": "az"
+    },
+    {
+      "commonName": "أنتيغوا وباربودا",
+      "officialName": "Antigua and Barbuda",
+      "flag": "🇦🇬",
+      "arName": "أنتيغوا وباربودا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "الباهاماس",
+      "officialName": "Commonwealth of The Bahamas",
+      "flag": "🇧🇸",
+      "arName": "الباهاماس",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "باربادوس",
+      "officialName": "Barbados",
+      "flag": "🇧🇧",
+      "arName": "باربادوس",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "بليز",
+      "officialName": "Belize",
+      "flag": "🇧🇿",
+      "arName": "بليز",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "كوستاريكا",
+      "officialName": "Republic of Costa Rica",
+      "flag": "🇨🇷",
+      "arName": "كوستاريكا",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "كوبا",
+      "officialName": "Republic of Cuba",
+      "flag": "🇨🇺",
+      "arName": "كوبا",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "دومينيكا",
+      "officialName": "Commonwealth of Dominica",
+      "flag": "🇩🇲",
+      "arName": "دومينيكا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "Dجمهورية الدومينيكان",
+      "officialName": "Dominican Republic",
+      "flag": "🇩🇴",
+      "arName": "جمهورية الدومينيكان",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "السلفادور",
+      "officialName": "Republic of El Salvador",
+      "flag": "🇸🇻",
+      "arName": "السلفادور",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "غرينادا",
+      "officialName": "Grenada",
+      "flag": "🇬🇩",
+      "arName": "غرينادا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "غواتيمالا",
+      "officialName": "Republic of Guatemala",
+      "flag": "🇬🇹",
+      "arName": "غواتيمالا",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "هايتي",
+      "officialName": "Haitian Republic",
+      "flag": "🇭🇹",
+      "arName": "هايتي",
+      "languageCode": "ht"
+    },
+    {
+      "commonName": "هندوراس",
+      "officialName": "Republic of Honduras",
+      "flag": "🇭🇳",
+      "arName": "هندوراس",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "جامايكا",
+      "officialName": "Jamaica",
+      "flag": "🇯🇲",
+      "arName": "جامايكا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "نيكاراغوا",
+      "officialName": "Republic of Nicaragua",
+      "flag": "🇳🇮",
+      "arName": "نيكاراغوا",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "بنما",
+      "officialName": "Republic of Panama",
+      "flag": "🇵🇦",
+      "arName": "بنما",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "سانت كيتس ونيفيس",
+      "officialName": "Federation of Saint Kitts and Nevis",
+      "flag": "🇰🇳",
+      "arName": "سانت كيتس ونيفيس",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "سانت لوسيا",
+      "officialName": "Saint Lucia",
+      "flag": "🇱🇨",
+      "arName": "سانت لوسيا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "سانت فينسنت والغرينادين",
+      "officialName": "Saint Vincent and the Grenadines",
+      "flag": "🇻🇨",
+      "arName": "سانت فينسنت والغرينادين",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "ترينيداد وتوباغو",
+      "officialName": "Trinidad and Tobago",
+      "flag": "🇹🇹",
+      "arName": "ترينيداد وتوباغو",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "بوليفيا",
+      "officialName": "Plurinational State of Bolivia",
+      "flag": "🇧🇴",
+      "arName": "بوليفيا",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "الإكوادور",
+      "officialName": "Republic of Ecuador",
+      "flag": "🇪🇨",
+      "arName": "الإكوادور",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "غيانا",
+      "officialName": "Co-operative Republic of Guyana",
+      "flag": "🇬🇾",
+      "arName": "غيانا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "باراغواي",
+      "officialName": "Republic of Paraguay",
+      "flag": "🇵🇾",
+      "arName": "باراغواي",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "بيرو",
+      "officialName": "Republic of Peru",
+      "flag": "🇵🇪",
+      "arName": "بيرو",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "سورينام",
+      "officialName": "Republic of Suriname",
+      "flag": "🇸🇷",
+      "arName": "سورينام",
+      "languageCode": "nl"
+    },
+    {
+      "commonName": "أوروغواي",
+      "officialName": "Eastern Republic of Uruguay",
+      "flag": "🇺🇾",
+      "arName": "أوروغواي",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "فنزويلا",
+      "officialName": "Bolivarian Republic of Venezuela",
+      "flag": "🇻🇪",
+      "arName": "فنزويلا",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "أنغولا",
+      "officialName": "Republic of Angola",
+      "flag": "🇦🇴",
+      "arName": "أنغولا",
+      "languageCode": "pt"
+    },
+    {
+      "commonName": "بنين",
+      "officialName": "Republic of Benin",
+      "flag": "🇧🇯",
+      "arName": "بنين",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "بوتسوانا",
+      "officialName": "Republic of Botswana",
+      "flag": "🇧🇼",
+      "arName": "بوتسوانا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "بوركينا فاسو",
+      "officialName": "Burkina Faso",
+      "flag": "🇧🇫",
+      "arName": "بوركينا فاسو",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "بوروندي",
+      "officialName": "Republic of Burundi",
+      "flag": "🇧🇮",
+      "arName": "بوروندي",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "الكاميرون",
+      "officialName": "Republic of Cameroon",
+      "flag": "🇨🇲",
+      "arName": "الكاميرون",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "الرأس الأخضر",
+      "officialName": "Republic of Cabo Verde",
+      "flag": "🇨🇻",
+      "arName": "الرأس الأخضر",
+      "languageCode": "pt"
+    },
+    {
+      "commonName": "جمهورية أفريقيا الوسطى",
+      "officialName": "Central African Republic",
+      "flag": "🇨🇫",
+      "arName": "جمهورية أفريقيا الوسطى",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "تشاد",
+      "officialName": "Chad",
+      "flag": "🇹🇩",
+      "arName": "تشاد",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "جمهورية الكونغو",
+      "officialName": "Republic of the Congo",
+      "flag": "🇨🇬",
+      "arName": "جمهورية الكونغو",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "جمهورية الكونغو الديمقراطية",
+      "officialName": "Democratic Republic of the Congo",
+      "flag": "🇨🇩",
+      "arName": "جمهورية الكونغو الديمقراطية",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "ساحل العاج",
+      "officialName": "Republic of Côte d'Ivoire",
+      "flag": "🇨🇮",
+      "arName": "ساحل العاج",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "غينيا الاستوائية",
+      "officialName": "Republic of Equatorial Guinea",
+      "flag": "🇬🇶",
+      "arName": "غينيا الاستوائية",
+      "languageCode": "es"
+    },
+    {
+      "commonName": "إريتريا",
+      "officialName": "State of Eritrea",
+      "flag": "🇪🇷",
+      "arName": "إريتريا",
+      "languageCode": "ti"
+    },
+    {
+      "commonName": "إثيوبيا",
+      "officialName": "Federal Democratic Republic of Ethiopia",
+      "flag": "🇪🇹",
+      "arName": "إثيوبيا",
+      "languageCode": "am"
+    },
+    {
+      "commonName": "الغابون",
+      "officialName": "Gabonese Republic",
+      "flag": "🇬🇦",
+      "arName": "الغابون",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "غامبيا",
+      "officialName": "Republic of the Gambia",
+      "flag": "🇬🇲",
+      "arName": "غامبيا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "غانا",
+      "officialName": "Republic of Ghana",
+      "flag": "🇬🇭",
+      "arName": "غانا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "غينيا",
+      "officialName": "Republic of Guinea",
+      "flag": "🇬🇳",
+      "arName": "غينيا",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "غينيا بيساو",
+      "officialName": "Republic of Guinea-Bissau",
+      "flag": "🇬🇼",
+      "arName": "غينيا بيساو",
+      "languageCode": "pt"
+    },
+    {
+      "commonName": "كينيا",
+      "officialName": "Republic of Kenya",
+      "flag": "🇰🇪",
+      "arName": "كينيا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "ليسوتو",
+      "officialName": "Kingdom of Lesotho",
+      "flag": "🇱🇸",
+      "arName": "ليسوتو",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "ليبيريا",
+      "officialName": "Republic of Liberia",
+      "flag": "🇱🇸",
+      "arName": "ليبيريا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "مدغشقر",
+      "officialName": "Republic of Madagascar",
+      "flag": "🇲🇬",
+      "arName": "مدغشقر",
+      "languageCode": "mg"
+    },
+    {
+      "commonName": "مالاوي",
+      "officialName": "Republic of Malawi",
+      "flag": "🇲🇼",
+      "arName": "مالاوي",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "مالي",
+      "officialName": "Republic of Mali",
+      "flag": "🇲🇱",
+      "arName": "مالي",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "موريشيوس",
+      "officialName": "Republic of Mauritius",
+      "flag": "🇲🇺",
+      "arName": "موريشيوس",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "موزمبيق",
+      "officialName": "Mozambique",
+      "flag": "🇲🇿",
+      "arName": "موزمبيق",
+      "languageCode": "pt"
+    },
+    {
+      "commonName": "ناميبيا",
+      "officialName": "Republic of Namibia",
+      "flag": "🇳🇦",
+      "arName": "ناميبيا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "النيجر",
+      "officialName": "Republic of the Niger",
+      "flag": "🇳🇪",
+      "arName": "النيجر",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "نيجيريا",
+      "officialName": "Federal Republic of Nigeria",
+      "flag": "🇳🇬",
+      "arName": "نيجيريا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "رواندا",
+      "officialName": "Republic of Rwanda",
+      "flag": "🇷🇼",
+      "arName": "رواندا",
+      "languageCode": "rw"
+    },
+    {
+      "commonName": "ساو تومي وبرينسيبي",
+      "officialName": "Democratic Republic of São Tomé and Príncipe",
+      "flag": "🇸🇹",
+      "arName": "ساو تومي وبرينسيبي",
+      "languageCode": "pt"
+    },
+    {
+      "commonName": "السنغال",
+      "officialName": "Republic of Senegal",
+      "flag": "🇸🇳",
+      "arName": "السنغال",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "سيشل",
+      "officialName": "Republic of Seychelles",
+      "flag": "🇸🇨",
+      "arName": "سيشل",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "سيرا ليون",
+      "officialName": "Republic of Sierra Leone",
+      "flag": "🇸🇱",
+      "arName": "سيرا ليون",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "سوازيلاند",
+      "officialName": "Kingdom of Eswatini",
+      "flag": "🇸🇿",
+      "arName": "سوازيلاند",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "تنزانيا",
+      "officialName": "United Republic of Tanzania",
+      "flag": "🇹🇿",
+      "arName": "تنزانيا",
+      "languageCode": "sw"
+    },
+    {
+      "commonName": "توغو",
+      "officialName": "Togo",
+      "flag": "🇹🇬",
+      "arName": "توغو",
+      "languageCode": "fr"
+    },
+    {
+      "commonName": "أوغندا",
+      "officialName": "Republic of Uganda",
+      "flag": "🇺🇬",
+      "arName": "أوغندا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "زامبيا",
+      "officialName": "Republic of Zambia",
+      "flag": "🇿🇲",
+      "arName": "زامبيا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "زيمبابوي",
+      "officialName": "Republic of Zimbabwe",
+      "flag": "🇿🇼",
+      "arName": "زيمبابوي",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "فيجي",
+      "officialName": "Republic of Fiji",
+      "flag": "🇫🇯",
+      "arName": "فيجي",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "كيريباس",
+      "officialName": "Republic of Kiribati",
+      "flag": "🇰🇮",
+      "arName": "كيريباس",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "جزر مارشال",
+      "officialName": "Republic of the Marshall Islands",
+      "flag": "🇲🇭",
+      "arName": "جزر مارشال",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "ولايات ميكرونيسيا الفيدرالية",
+      "officialName": "Federated States of Micronesia",
+      "flag": "🇫🇲",
+      "arName": "ولايات ميكرونيسيا الفيدرالية",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "ناورو",
+      "officialName": "Republic of Nauru",
+      "flag": "🇳🇷",
+      "arName": "ناورو",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "نيوزيلندا",
+      "officialName": "New Zealand",
+      "flag": "🇳🇿",
+      "arName": "نيوزيلندا",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "بالاو",
+      "officialName": "Republic of Palau",
+      "flag": "🇵🇼",
+      "arName": "بالاو",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "بابوا غينيا الجديدة",
+      "officialName": "Independent State of Papua New Guinea",
+      "flag": "🇵🇬",
+      "arName": "بابوا غينيا الجديدة",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "ساموا",
+      "officialName": "Independent State of Samoa",
+      "flag": "🇼🇸",
+      "arName": "ساموا",
+      "languageCode": "sm"
+    },
+    {
+      "commonName": "جزر سليمان",
+      "officialName": "Solomon Islands",
+      "flag": "🇸🇧",
+      "arName": "جزر سليمان",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "تونغا",
+      "officialName": "Kingdom of Tonga",
+      "flag": "🇹🇴",
+      "arName": "تونغا",
+      "languageCode": "to"
+    },
+    {
+      "commonName": "توفالو",
+      "officialName": "Tuvalu",
+      "flag": "🇹🇻",
+      "arName": "توفالو",
+      "languageCode": "en"
+    },
+    {
+      "commonName": "فانواتو",
+      "officialName": "Republic of Vanuatu",
+      "flag": "🇻🇺",
+      "arName": "فانواتو",
+      "languageCode": "bi"
+    }
+  ]
