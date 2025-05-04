@@ -1,5 +1,12 @@
 [
   {
+    "commonName": "Türkiye",
+    "officialName": "Republic of Turkey",
+    "flag": "🇹🇷",
+    "trName": "Türkiye",
+    "languageCode": "tr"
+  },
+  {
     "commonName": "Suriye",
     "officialName": "Syrian Arab Republic",
     "flag": "🇸🇾",
@@ -152,13 +159,6 @@
     "flag": "🇰🇲",
     "trName": "Komorlar",
     "languageCode": "ar"
-  },
-  {
-    "commonName": "Türkiye",
-    "officialName": "Republic of Turkey",
-    "flag": "🇹🇷",
-    "trName": "Türkiye",
-    "languageCode": "tr"
   },
   {
     "commonName": "Rusya",
