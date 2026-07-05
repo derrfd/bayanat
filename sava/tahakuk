@@ -1,4 +1,5 @@
 {
     "isdar": 3,
-    "check": "true"
+    "check": "true",
+    "showAds": "true"
 }
